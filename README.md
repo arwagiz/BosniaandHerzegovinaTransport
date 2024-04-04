@@ -26,8 +26,10 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### National Vision, Strategy, Masterplan <a name="national-vision-strategy-masterplan"></a> 
 
 - Transport
+    - [Sustainable and Smart Mobility Strategy in the Western Balkans (Transport Community)](https://github.com/arwagiz/BosniaandHerzegovinaTransport/blob/main/Sustainable-and-Smart-Mobility-Strategy-Report_designed.pdf)
 
 - General
+    - [Strategic Plan Association of Municipalities and Cities of the Republic Srpska 2022 - 2028](https://github.com/arwagiz/BosniaandHerzegovinaTransport/blob/main/strateski-plan-sogrs-za-2022-2028.pdf)
 
 
 ### Other national and sectoral documents <a name="other-national-sectoral-documents"></a> 
@@ -40,7 +42,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### Climate and energy policies <a name="climate-energy-policies"></a> 
 
 - Mitigation:
-  
+    - [Decision on Allocation of Funds for Climate Prevention and Mitigation Measures (08.03.2023)](https://github.com/arwagiz/BosniaandHerzegovinaTransport/blob/main/%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D0%B8%D1%98%D0%B0%20%D1%80%D0%B0%D0%B7%D0%B2%D0%BE%D1%98%D0%B0%20%D0%BB%D0%BE%D0%BA%D0%B0%D0%BB%D0%BD%D0%B5%20%D1%81%D0%B0%D0%BC%D0%BE%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%B5%20%D1%83%20%D0%A0%D0%B5%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D1%86%D0%B8%20%D0%A1%D1%80%D0%BF%D1%81%D0%BA%D0%BE%D1%98%202023-2029.pdf)
       
 - Adaptation
    
@@ -63,7 +65,9 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 
 ### Local Sustainable Energy and Climate Action Plans <a name="local-secaps"></a> 
-- SECAP 
+- [SECAP Modrica 2030 (2021)](https://github.com/arwagiz/BosniaandHerzegovinaTransport/blob/main/akcioni_plan_secap_modrica.pdf)
+- [SECAP Čajniče 2030 (2021)](https://github.com/arwagiz/BosniaandHerzegovinaTransport/blob/main/SECAP_Cajnice-N%D1%98-%D0%A4.pdf)
+- [SECAP Zvornik 2030 (2020)](https://github.com/arwagiz/BosniaandHerzegovinaTransport/blob/main/SECAP_Zvornik_nacrt_31-08-2020_CIR-1.pdf)
 
 
 ### Studies and research papers <a name="studies-research"></a> 
